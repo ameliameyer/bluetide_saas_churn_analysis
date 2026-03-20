@@ -1,0 +1,501 @@
+company_id,company_name,industry,company_size,country,state,signup_date,plan_type,status,churn_date
+1,"Brady, Le and Cline",Software,10,US,OK,2024-10-29,Team,Churned,2025-11-23 17:48:01.238085
+2,Scott-Silva,Software,50,US,GA,2025-01-14,Pro,Active,
+3,"Stewart, Stewart and Green",Healthcare,100,US,MO,2022-06-06,Enterprise,Churned,2025-12-27 17:48:01.238085
+4,Wade LLC,FinTech,50,US,IL,2023-08-21,Free,Active,
+5,Garcia-Woods,FinTech,25,US,RI,2021-09-28,Team,Active,
+6,Gray Inc,FinTech,100,US,NC,2024-06-02,Free,Active,
+7,"White, Calhoun and Cameron",Software,50,US,WV,2021-10-11,Pro,Active,
+8,Clark Group,Software,50,US,FL,2022-11-03,Team,Active,
+9,Johnson Inc,E-commerce,1000,US,CA,2025-08-29,Team,Active,
+10,"Bruce, Patel and Patel",Software,100,US,LA,2023-05-25,Team,Churned,2025-09-25 17:48:01.238085
+11,Calderon Ltd,Software,50,US,WY,2024-04-07,Team,Active,
+12,"Mathis, Roberts and Kim",Software,1000,US,NE,2021-11-07,Free,Churned,2025-11-12 17:48:01.238085
+13,"Martin, Mckinney and Williams",FinTech,1000,US,MI,2025-01-12,Pro,Active,
+14,Thomas-Goodman,FinTech,100,US,NC,2023-10-08,Pro,Active,
+15,"Goodwin, Stokes and Fry",Software,50,US,LA,2024-12-18,Enterprise,Active,
+16,Cherry-Velez,FinTech,1000,US,AL,2024-07-31,Free,Churned,2025-12-27 17:48:01.238085
+17,Gilbert LLC,E-commerce,10,US,ME,2023-03-09,Pro,Active,
+18,Duke Group,FinTech,100,US,WA,2023-12-24,Free,Active,
+19,"Miller, Wolf and Stevens",E-commerce,10,US,MD,2023-11-07,Free,Churned,2026-01-16 17:48:01.238085
+20,Santiago-Weber,Healthcare,500,US,PA,2023-11-22,Pro,Active,
+21,"Foster, Blevins and Zuniga",Software,250,US,PA,2022-08-26,Enterprise,Active,
+22,Johnson PLC,FinTech,10,US,TX,2024-04-19,Enterprise,Active,
+23,"Curtis, Schmidt and Gonzalez",E-commerce,50,US,NY,2026-02-16,Enterprise,Churned,2026-01-04 17:48:01.238085
+24,"Daniels, Dennis and Smith",Healthcare,25,US,GA,2025-02-10,Team,Active,
+25,Berry-Ibarra,Healthcare,500,US,NH,2021-04-17,Pro,Active,
+26,Perry PLC,FinTech,10,US,OH,2023-12-02,Team,Active,
+27,"Smith, Wilson and Davidson",FinTech,1000,US,NM,2022-12-09,Team,Active,
+28,"Perkins, Walton and Smith",Healthcare,500,US,MN,2025-09-13,Team,Active,
+29,Reynolds Group,Software,10,US,MI,2024-03-28,Free,Active,
+30,Moore Group,Software,1000,US,OK,2022-09-11,Free,Active,
+31,Moreno-Black,E-commerce,10,US,WI,2024-05-17,Pro,Churned,2025-10-23 17:48:01.238085
+32,Price-House,Software,25,US,OH,2023-05-06,Pro,Active,
+33,"Ferguson, Mullins and White",Healthcare,25,US,MO,2022-11-05,Free,Active,
+34,Thomas-Hernandez,Healthcare,1000,US,NJ,2021-12-27,Free,Churned,2025-09-23 17:48:01.238085
+35,Roach LLC,Healthcare,10,US,MA,2022-09-13,Team,Active,
+36,Castillo Ltd,Software,250,US,IL,2026-02-13,Enterprise,Active,
+37,Turner-Kirby,E-commerce,25,US,VT,2022-12-12,Enterprise,Active,
+38,"Johnston, Lopez and Bailey",Software,25,US,KS,2024-08-13,Enterprise,Active,
+39,Leonard Inc,E-commerce,25,US,OR,2022-12-21,Enterprise,Active,
+40,Velez Ltd,Software,100,US,MO,2021-03-08,Enterprise,Churned,2026-01-24 17:48:01.238085
+41,Ferguson-Gates,Healthcare,500,US,IA,2025-05-27,Team,Active,
+42,Conner-Marshall,Healthcare,10,US,WY,2021-05-16,Pro,Active,
+43,"Moore, Carpenter and Sullivan",FinTech,250,US,NE,2023-06-07,Free,Active,
+44,Harris Inc,Software,25,US,AZ,2022-06-20,Team,Active,
+45,Carlson LLC,Software,100,US,MA,2024-08-28,Enterprise,Active,
+46,Patel and Sons,FinTech,500,US,WV,2025-05-19,Free,Active,
+47,Chavez-Morgan,Healthcare,50,US,NM,2022-06-13,Team,Churned,2026-01-17 17:48:01.238085
+48,"Mullen, Lewis and Mccullough",Software,1000,US,VA,2024-12-03,Enterprise,Active,
+49,Bruce-Robinson,FinTech,50,US,MO,2025-03-17,Team,Active,
+50,"Marshall, Morgan and Bolton",Software,25,US,MO,2023-06-25,Free,Active,
+51,Garcia-Brennan,E-commerce,250,US,TX,2022-05-27,Pro,Active,
+52,"Spears, Mccann and Craig",Healthcare,250,US,TN,2022-12-05,Enterprise,Active,
+53,Benjamin LLC,E-commerce,500,US,GA,2022-08-31,Free,Active,
+54,Soto-Howell,Healthcare,500,US,NY,2021-07-13,Free,Active,
+55,Phillips and Sons,FinTech,10,US,AZ,2021-04-23,Pro,Active,
+56,Edwards-Campbell,Healthcare,1000,US,FL,2022-01-23,Team,Churned,2025-09-22 17:48:01.238085
+57,Garcia PLC,Healthcare,1000,US,NC,2025-11-23,Pro,Active,
+58,Martinez-Garcia,FinTech,25,US,PA,2021-05-25,Pro,Active,
+59,Ray LLC,Healthcare,50,US,MI,2021-11-06,Team,Active,
+60,"Moore, Massey and Carter",Software,10,US,CT,2022-07-25,Team,Active,
+61,Hughes PLC,FinTech,250,US,NH,2022-11-15,Team,Active,
+62,"Mckinney, Waters and Martinez",FinTech,10,US,CT,2024-02-13,Free,Active,
+63,"Bowen, Gibson and Hughes",FinTech,50,US,ND,2026-02-14,Free,Active,
+64,Berry-Whitney,E-commerce,250,US,NJ,2025-04-28,Enterprise,Churned,2026-01-21 17:48:01.238085
+65,Mercado-Wells,E-commerce,500,US,AL,2025-07-31,Enterprise,Active,
+66,Ramos-Gould,Healthcare,100,US,WA,2023-11-14,Pro,Active,
+67,Barr-Collins,FinTech,100,US,GA,2023-02-08,Pro,Active,
+68,Valdez and Sons,Healthcare,500,US,NE,2021-07-05,Enterprise,Active,
+69,"Thomas, Jackson and Campbell",Software,25,US,TN,2022-10-27,Pro,Churned,2025-09-16 17:48:01.238085
+70,Foley-Deleon,FinTech,10,US,GA,2022-05-25,Team,Churned,2026-01-30 17:48:01.238085
+71,Richardson-Davis,Software,250,US,CA,2024-08-26,Free,Churned,2025-12-21 17:48:01.238085
+72,Smith Ltd,Healthcare,500,US,NM,2025-08-18,Enterprise,Active,
+73,Greene PLC,E-commerce,1000,US,KY,2023-05-15,Free,Churned,2025-11-29 17:48:01.238085
+74,"Lee, Sanchez and Jordan",Healthcare,500,US,MI,2021-09-23,Enterprise,Churned,2025-10-30 17:48:01.238085
+75,Robertson PLC,Software,25,US,SC,2024-02-09,Free,Active,
+76,"Campos, Arroyo and Giles",FinTech,10,US,VT,2024-12-23,Enterprise,Churned,2025-10-15 17:48:01.238085
+77,Douglas-Weaver,Healthcare,500,US,MT,2024-09-03,Free,Churned,2025-12-04 17:48:01.238085
+78,"Riggs, Chapman and Moreno",FinTech,1000,US,TN,2023-07-10,Team,Churned,2025-12-15 17:48:01.238085
+79,Holder PLC,E-commerce,50,US,CO,2024-06-07,Enterprise,Churned,2025-11-07 17:48:01.238085
+80,"Jones, Mullins and Johnson",E-commerce,1000,US,MI,2023-12-13,Enterprise,Churned,2025-11-10 17:48:01.238085
+81,Reynolds Ltd,E-commerce,500,US,UT,2022-01-31,Enterprise,Active,
+82,Mason-Li,FinTech,250,US,OH,2025-12-17,Team,Active,
+83,Holland PLC,Healthcare,1000,US,MO,2024-08-20,Free,Churned,2025-12-24 17:48:01.238085
+84,Knight-Williams,FinTech,10,US,MA,2024-05-05,Enterprise,Active,
+85,"Case, Valentine and Barrera",FinTech,1000,US,SD,2021-06-11,Free,Churned,2025-10-20 17:48:01.238085
+86,"Johnson, Dickson and Jordan",Healthcare,250,US,VA,2022-03-08,Team,Active,
+87,"Castro, Harper and Lawson",E-commerce,1000,US,WI,2022-11-11,Pro,Churned,2026-01-03 17:48:01.238085
+88,Quinn-Butler,E-commerce,10,US,NY,2025-05-21,Enterprise,Active,
+89,Hayes-Harris,Healthcare,50,US,OH,2023-06-23,Team,Active,
+90,Chase-Campbell,FinTech,250,US,AZ,2022-08-11,Free,Active,
+91,Johnson Ltd,FinTech,100,US,SC,2021-05-29,Enterprise,Churned,2025-10-01 17:48:01.238085
+92,Fisher Ltd,E-commerce,500,US,CA,2025-06-29,Free,Active,
+93,Allen LLC,Software,50,US,KS,2026-01-19,Pro,Active,
+94,Rodriguez-Gonzales,Software,10,US,SD,2024-09-08,Enterprise,Churned,2026-01-19 17:48:01.238085
+95,"Craig, Espinoza and Miller",Software,250,US,UT,2021-08-15,Enterprise,Active,
+96,"Walker, Thomas and Richardson",FinTech,500,US,ME,2022-03-13,Free,Active,
+97,Santos-Benson,FinTech,50,US,IA,2021-07-05,Enterprise,Active,
+98,"Lawson, Ware and Reynolds",E-commerce,10,US,WV,2024-08-09,Team,Active,
+99,"Lee, Allen and Rodriguez",Software,1000,US,CO,2024-11-26,Team,Active,
+100,"Patterson, Mills and Sanders",E-commerce,100,US,NV,2023-01-22,Pro,Active,
+101,Roberts-Long,E-commerce,1000,US,CT,2025-09-03,Team,Active,
+102,"Reed, Barker and Turner",E-commerce,100,US,WI,2023-06-06,Pro,Churned,2025-12-13 17:48:01.238085
+103,Martinez LLC,Healthcare,10,US,SD,2022-03-20,Free,Active,
+104,"Smith, Fuller and May",Software,100,US,VA,2023-02-20,Free,Active,
+105,Jones and Sons,Software,50,US,CT,2024-04-03,Pro,Churned,2025-10-26 17:48:01.238085
+106,Jones PLC,Healthcare,500,US,NH,2021-08-13,Team,Active,
+107,Fuentes-Archer,Healthcare,1000,US,HI,2023-05-18,Team,Active,
+108,Lyons LLC,Software,100,US,VT,2023-02-02,Pro,Active,
+109,Thomas PLC,Healthcare,500,US,MD,2021-05-02,Pro,Active,
+110,"Anderson, Graham and Marsh",E-commerce,25,US,AK,2025-09-26,Free,Active,
+111,Warren-Bennett,FinTech,100,US,AZ,2024-01-09,Pro,Active,
+112,Lopez Inc,E-commerce,25,US,MA,2024-01-12,Team,Active,
+113,Hart-Cross,Software,500,US,AR,2024-05-06,Pro,Active,
+114,"Soto, Smith and Hahn",Healthcare,250,US,ME,2023-09-09,Pro,Active,
+115,Singh and Sons,FinTech,500,US,MN,2023-01-28,Pro,Active,
+116,"Maxwell, Payne and Larsen",Software,50,US,MS,2024-12-27,Free,Active,
+117,"Navarro, Edwards and Long",Healthcare,250,US,NV,2022-12-17,Pro,Active,
+118,"Turner, Barry and Lee",FinTech,1000,US,GA,2024-03-01,Enterprise,Active,
+119,Cole-Smith,FinTech,250,US,KS,2026-01-04,Enterprise,Active,
+120,"Miller, Hernandez and Scott",Healthcare,1000,US,ND,2021-08-04,Enterprise,Active,
+121,Owens-Meyer,FinTech,100,US,NE,2023-01-20,Team,Active,
+122,Palmer-Meyer,Software,100,US,OR,2024-07-19,Team,Active,
+123,Miranda-Clark,Healthcare,100,US,UT,2022-07-07,Pro,Active,
+124,Chapman-Bonilla,E-commerce,1000,US,ID,2022-02-17,Enterprise,Active,
+125,Faulkner-French,Software,500,US,HI,2022-12-05,Free,Churned,2025-10-12 17:48:01.238085
+126,Wood LLC,Software,250,US,ID,2022-04-05,Enterprise,Active,
+127,Jackson-Morgan,Healthcare,50,US,CO,2025-11-06,Enterprise,Active,
+128,"Moon, Ward and Harris",Healthcare,50,US,SC,2025-02-02,Team,Active,
+129,Morgan-Lawrence,FinTech,1000,US,MO,2025-09-26,Team,Active,
+130,"Jackson, Carter and Stevens",Software,25,US,SC,2021-08-09,Free,Active,
+131,Lane-Reese,FinTech,1000,US,UT,2023-03-23,Team,Active,
+132,Bell-Clark,Software,10,US,KS,2026-01-10,Free,Churned,2026-01-30 17:48:01.238085
+133,"Duncan, Flores and Scott",Software,50,US,NY,2025-10-08,Team,Active,
+134,Melton PLC,E-commerce,100,US,PA,2021-04-25,Enterprise,Active,
+135,Potter Inc,Software,25,US,GA,2021-08-18,Enterprise,Active,
+136,"Young, Ellis and Collins",FinTech,1000,US,IA,2023-04-20,Free,Active,
+137,Cohen and Sons,FinTech,100,US,NJ,2023-03-01,Free,Active,
+138,Williams-Brown,E-commerce,250,US,SD,2022-04-25,Team,Active,
+139,"Collins, Chavez and Alvarado",FinTech,250,US,KY,2021-09-20,Team,Active,
+140,Murray-Jones,Healthcare,500,US,NJ,2026-03-03,Free,Active,
+141,Koch-Rivera,E-commerce,100,US,KY,2022-09-27,Free,Active,
+142,Barrett-Gardner,FinTech,50,US,TX,2021-06-14,Enterprise,Active,
+143,Brock-Thomas,FinTech,10,US,AL,2025-10-08,Enterprise,Active,
+144,Vasquez LLC,Healthcare,100,US,NJ,2024-06-22,Free,Active,
+145,Burton and Sons,E-commerce,1000,US,ME,2021-05-05,Enterprise,Active,
+146,Clark and Sons,Healthcare,50,US,UT,2024-05-26,Pro,Active,
+147,"Benson, Harding and Moreno",E-commerce,25,US,OH,2023-06-12,Team,Active,
+148,"Jones, Meyer and Manning",E-commerce,100,US,HI,2022-12-04,Enterprise,Active,
+149,Humphrey Group,Software,25,US,CA,2023-08-22,Pro,Churned,2025-12-25 17:48:01.238085
+150,"Moore, Schmidt and Smith",FinTech,50,US,NH,2024-05-11,Free,Active,
+151,Sutton Group,FinTech,1000,US,MN,2022-04-11,Enterprise,Active,
+152,Ortiz-Miller,Software,50,US,PA,2025-09-21,Free,Active,
+153,Ramsey Inc,Healthcare,50,US,MD,2022-05-23,Team,Active,
+154,Murray-Pena,Software,50,US,SD,2024-08-11,Free,Active,
+155,"Mcmillan, Robinson and Martinez",FinTech,250,US,NV,2022-07-21,Pro,Churned,2025-12-24 17:48:01.238085
+156,Davila-Hendricks,FinTech,500,US,VT,2025-07-27,Free,Churned,2025-12-14 17:48:01.238085
+157,"Thomas, Reyes and Smith",Software,50,US,KY,2021-12-28,Pro,Active,
+158,Bryan-Rodgers,Software,250,US,NJ,2024-08-25,Enterprise,Active,
+159,Odom Inc,Software,10,US,MD,2024-02-14,Enterprise,Active,
+160,"Garcia, Bennett and Vasquez",FinTech,250,US,IL,2023-10-25,Pro,Active,
+161,Johnson Group,Software,25,US,MO,2024-01-20,Team,Active,
+162,"Castro, Schneider and Smith",Software,10,US,NM,2025-11-01,Team,Active,
+163,"Shah, Koch and Adams",Healthcare,25,US,CT,2023-01-23,Team,Active,
+164,Marsh-Day,Software,500,US,KS,2022-03-06,Enterprise,Active,
+165,Gibson LLC,FinTech,100,US,MO,2024-09-24,Enterprise,Active,
+166,Washington-Jennings,Healthcare,100,US,OR,2025-11-01,Team,Active,
+167,Anthony Group,E-commerce,250,US,MN,2025-08-27,Free,Active,
+168,Wilson LLC,FinTech,1000,US,OR,2023-03-13,Team,Active,
+169,"Herman, Martinez and Barnett",FinTech,25,US,ME,2024-11-18,Free,Active,
+170,Whitehead-Cox,E-commerce,500,US,VT,2023-03-09,Team,Active,
+171,Mathews and Sons,FinTech,100,US,ME,2023-02-05,Free,Active,
+172,Brown PLC,E-commerce,500,US,AK,2024-01-06,Enterprise,Active,
+173,Finley-Hodges,E-commerce,500,US,TX,2022-01-07,Team,Churned,2026-01-07 17:48:01.238085
+174,"Mitchell, Long and James",FinTech,100,US,MT,2022-04-24,Team,Churned,2025-11-30 17:48:01.238085
+175,King Ltd,Software,100,US,LA,2024-01-14,Pro,Active,
+176,"Hernandez, Mckenzie and Ortiz",Software,1000,US,AL,2024-02-02,Team,Active,
+177,Price-Lopez,E-commerce,10,US,OR,2025-08-24,Free,Active,
+178,"Williams, Ortiz and Ward",Healthcare,10,US,UT,2022-01-04,Pro,Active,
+179,Scott-Cox,E-commerce,50,US,WY,2023-12-12,Team,Active,
+180,"Stuart, Hall and Ford",E-commerce,25,US,WV,2022-06-13,Team,Active,
+181,Evans Inc,E-commerce,100,US,AR,2021-06-22,Enterprise,Churned,2025-10-20 17:48:01.238085
+182,"Garza, Butler and Bennett",Software,500,US,RI,2025-06-07,Pro,Active,
+183,Tate-Carter,Software,25,US,WV,2022-06-22,Free,Churned,2025-11-28 17:48:01.238085
+184,"Mercer, Leon and Rodriguez",Software,50,US,NY,2021-04-29,Team,Active,
+185,Fletcher-Singh,E-commerce,500,US,ME,2021-04-29,Enterprise,Active,
+186,Larson Group,Healthcare,250,US,WY,2025-02-10,Team,Churned,2025-12-13 17:48:01.238085
+187,Hill-Gray,Software,50,US,IA,2025-10-04,Pro,Active,
+188,"Smith, Owens and Carpenter",FinTech,100,US,RI,2022-02-03,Free,Active,
+189,Welch-Morris,FinTech,250,US,MN,2025-02-25,Enterprise,Active,
+190,"Richardson, Walters and Whitehead",FinTech,250,US,IA,2024-03-29,Team,Active,
+191,Morales PLC,E-commerce,50,US,SD,2023-02-08,Free,Active,
+192,"Perez, Thompson and Solis",FinTech,100,US,IL,2024-10-27,Team,Active,
+193,Turner-Castaneda,E-commerce,500,US,SC,2024-10-25,Team,Active,
+194,Anderson-Eaton,FinTech,250,US,KY,2021-11-08,Pro,Churned,2025-11-07 17:48:01.238085
+195,Hernandez and Sons,Healthcare,50,US,UT,2022-05-24,Pro,Churned,2025-12-21 17:48:01.238085
+196,"Mcdonald, Williams and Ramsey",E-commerce,50,US,WI,2023-08-20,Team,Active,
+197,Frost-Austin,FinTech,500,US,WA,2024-08-21,Enterprise,Active,
+198,Parker-Figueroa,Software,100,US,WY,2023-11-18,Pro,Active,
+199,Gibson-Wilson,E-commerce,50,US,TX,2024-07-14,Pro,Active,
+200,"Mcintyre, Ferrell and Campbell",Software,50,US,UT,2021-04-26,Pro,Active,
+201,"Adams, Anderson and Prince",Software,50,US,FL,2023-06-26,Pro,Active,
+202,Hopkins Ltd,Software,25,US,SD,2025-11-25,Free,Active,
+203,Oneill Inc,Software,10,US,CT,2025-12-28,Team,Active,
+204,Hurley Ltd,FinTech,500,US,SD,2025-06-25,Free,Active,
+205,Maldonado-Carlson,FinTech,25,US,TN,2021-10-05,Free,Churned,2026-01-01 17:48:01.238085
+206,"Ramos, Davis and Moss",E-commerce,50,US,AZ,2025-01-31,Team,Active,
+207,"Riley, Cohen and Zimmerman",E-commerce,10,US,MD,2023-12-12,Pro,Active,
+208,"Quinn, Hernandez and Jones",E-commerce,500,US,NH,2024-09-06,Enterprise,Active,
+209,Rodriguez PLC,FinTech,250,US,AZ,2024-12-15,Pro,Active,
+210,Martinez-Jackson,E-commerce,1000,US,PA,2022-09-09,Pro,Churned,2026-01-17 17:48:01.238085
+211,Donovan LLC,Software,500,US,MS,2023-07-03,Pro,Active,
+212,"Collins, Dudley and Carter",FinTech,25,US,WA,2022-09-02,Pro,Churned,2026-01-13 17:48:01.238085
+213,"Carter, Erickson and Jackson",E-commerce,25,US,FL,2025-12-27,Enterprise,Active,
+214,Tanner-Obrien,Software,25,US,CO,2025-08-11,Free,Active,
+215,Wood-Mcdonald,E-commerce,500,US,ME,2025-05-28,Enterprise,Active,
+216,"Martin, King and Scott",Healthcare,100,US,MA,2025-03-07,Team,Active,
+217,Vazquez and Sons,E-commerce,50,US,WV,2022-03-23,Pro,Active,
+218,"Duran, Rodriguez and White",Healthcare,500,US,NE,2024-09-27,Enterprise,Active,
+219,Norris Inc,E-commerce,250,US,ID,2025-10-23,Team,Active,
+220,Gonzalez Group,E-commerce,1000,US,IL,2022-04-17,Enterprise,Active,
+221,Snyder-Jones,FinTech,250,US,FL,2024-02-11,Pro,Active,
+222,Johnson-Jacobs,FinTech,250,US,OH,2024-10-08,Pro,Active,
+223,"Lester, Rice and Elliott",Healthcare,50,US,MS,2025-12-30,Team,Active,
+224,Smith-Ross,FinTech,10,US,ND,2022-01-19,Enterprise,Active,
+225,Harrison Group,Software,1000,US,NC,2023-04-09,Pro,Active,
+226,Weeks-Stewart,Software,25,US,LA,2024-05-17,Team,Active,
+227,"Haynes, Ortega and Gonzalez",Healthcare,50,US,HI,2022-03-25,Enterprise,Active,
+228,Green-Gonzalez,Software,25,US,KY,2024-06-19,Enterprise,Active,
+229,Carter LLC,Software,50,US,NM,2024-10-01,Team,Active,
+230,Ross-Jordan,E-commerce,25,US,ME,2023-12-02,Enterprise,Active,
+231,Lara LLC,FinTech,50,US,WV,2023-12-19,Enterprise,Active,
+232,Norris and Sons,Software,10,US,MI,2024-02-10,Pro,Active,
+233,Norton-Griffin,Software,500,US,DE,2026-01-17,Pro,Active,
+234,Carter and Sons,FinTech,250,US,NJ,2025-11-16,Pro,Active,
+235,Ortiz-Skinner,Software,25,US,CA,2021-08-29,Team,Active,
+236,Nelson-Cohen,Software,50,US,GA,2022-07-11,Free,Active,
+237,"Brown, Stevenson and Rogers",FinTech,10,US,WI,2025-09-10,Enterprise,Active,
+238,"Boyer, Donaldson and Johnson",E-commerce,10,US,IA,2024-10-19,Team,Active,
+239,Holland Group,Software,250,US,UT,2025-02-06,Free,Churned,2026-01-11 17:48:01.238085
+240,Warren Ltd,FinTech,50,US,WA,2022-04-17,Free,Active,
+241,Perez Inc,Software,500,US,UT,2022-09-06,Team,Active,
+242,Jones Inc,Software,25,US,MT,2022-08-26,Free,Active,
+243,"Ford, Morton and Carter",E-commerce,500,US,OK,2025-09-26,Pro,Active,
+244,Fuller PLC,Healthcare,1000,US,MS,2022-08-11,Team,Active,
+245,Shannon-Jones,Healthcare,1000,US,CO,2024-10-09,Enterprise,Active,
+246,Anderson PLC,FinTech,100,US,MT,2025-11-04,Pro,Active,
+247,"Hernandez, Silva and Wilkerson",Healthcare,10,US,AL,2023-11-02,Enterprise,Active,
+248,Chavez-Sosa,FinTech,1000,US,KY,2022-02-19,Free,Active,
+249,Burns Group,Healthcare,10,US,OH,2022-06-23,Pro,Active,
+250,"Mcguire, Porter and Sandoval",E-commerce,250,US,DE,2026-01-05,Enterprise,Active,
+251,"Sawyer, Howard and Garza",FinTech,50,US,NJ,2024-05-26,Team,Active,
+252,"Cantu, Navarro and Washington",Healthcare,100,US,MS,2023-06-03,Free,Active,
+253,"Davis, Sosa and Sanders",E-commerce,100,US,UT,2022-09-26,Enterprise,Active,
+254,"Douglas, Garcia and Davis",Healthcare,100,US,WV,2024-09-23,Free,Active,
+255,Chapman and Sons,Software,50,US,UT,2021-08-01,Enterprise,Active,
+256,Townsend-Chambers,Software,25,US,KY,2021-05-16,Team,Active,
+257,"Young, Roach and Fritz",E-commerce,10,US,PA,2022-12-12,Pro,Active,
+258,Hooper Ltd,Software,50,US,MO,2022-03-23,Enterprise,Active,
+259,"Best, Ortiz and Anderson",Software,1000,US,SD,2025-07-15,Free,Active,
+260,"Lawrence, Donovan and Hall",FinTech,100,US,MS,2022-02-02,Team,Active,
+261,Logan Group,Healthcare,10,US,CT,2022-01-04,Pro,Active,
+262,Christensen-Ramos,FinTech,1000,US,UT,2023-10-12,Free,Active,
+263,Hunter-Gray,Healthcare,10,US,IA,2024-01-20,Team,Churned,2026-01-05 17:48:01.238085
+264,Williams-Woods,Software,100,US,NM,2021-09-03,Free,Active,
+265,"Molina, Roth and Day",FinTech,100,US,AK,2025-06-21,Team,Active,
+266,"Jimenez, Parker and Ho",Healthcare,10,US,SC,2024-07-04,Pro,Active,
+267,Williams-Saunders,Healthcare,250,US,OK,2025-02-05,Pro,Active,
+268,"Davenport, Ingram and Harrison",FinTech,500,US,MA,2025-06-05,Free,Active,
+269,Green Inc,E-commerce,500,US,SC,2026-01-30,Team,Churned,2026-01-10 17:48:01.238085
+270,"Burke, Rodriguez and Mullen",Healthcare,10,US,IA,2025-09-26,Enterprise,Active,
+271,"Mccall, Ferrell and Little",Software,25,US,TN,2024-01-29,Pro,Active,
+272,Herman-Campos,Healthcare,25,US,CA,2023-06-27,Enterprise,Active,
+273,"Schmitt, Miller and Jackson",Software,1000,US,SD,2023-06-30,Enterprise,Active,
+274,Parker and Sons,FinTech,250,US,NJ,2024-02-29,Free,Active,
+275,"Holt, Martin and Weaver",Healthcare,50,US,VT,2024-07-11,Free,Active,
+276,Diaz and Sons,Software,10,US,MD,2023-01-02,Free,Active,
+277,Payne Inc,Software,25,US,TN,2025-02-03,Team,Active,
+278,Oconnor-Martin,FinTech,10,US,NE,2023-05-05,Pro,Churned,2025-10-15 17:48:01.238085
+279,Mcdaniel PLC,Healthcare,250,US,DE,2025-02-23,Pro,Churned,2025-09-19 17:48:01.238085
+280,"Johnson, Parker and Lopez",Healthcare,1000,US,FL,2025-03-25,Enterprise,Active,
+281,Liu-Lewis,FinTech,100,US,AZ,2025-10-16,Free,Churned,2025-12-18 17:48:01.238085
+282,Glenn-Anthony,Healthcare,250,US,AZ,2023-01-08,Team,Active,
+283,Roberts Group,FinTech,250,US,MD,2022-08-07,Pro,Active,
+284,"Watkins, Jennings and Davis",Healthcare,1000,US,NY,2025-07-10,Team,Active,
+285,"Green, Ponce and Spencer",E-commerce,250,US,DE,2023-06-24,Free,Active,
+286,Smith-Bridges,Healthcare,25,US,CT,2022-01-12,Free,Active,
+287,Nixon and Sons,Software,1000,US,KS,2025-06-29,Pro,Active,
+288,"Hudson, Day and Flores",Software,250,US,OH,2021-12-12,Enterprise,Active,
+289,Roberts and Sons,E-commerce,100,US,FL,2022-06-25,Enterprise,Active,
+290,Freeman and Sons,Healthcare,100,US,MO,2021-10-04,Free,Active,
+291,Rios-Harris,Software,100,US,NJ,2022-12-06,Free,Churned,2026-01-15 17:48:01.238085
+292,"Santana, Wood and Turner",Software,50,US,MS,2022-07-17,Enterprise,Active,
+293,Nichols-Miranda,Healthcare,1000,US,TX,2022-04-18,Free,Active,
+294,Marquez Inc,FinTech,250,US,WV,2023-08-06,Pro,Active,
+295,Brown-Morales,Healthcare,100,US,VT,2024-09-17,Pro,Active,
+296,"Russell, Bond and Simon",FinTech,50,US,OH,2024-08-05,Team,Active,
+297,Goodman-Sellers,E-commerce,250,US,NE,2025-07-22,Enterprise,Active,
+298,George LLC,E-commerce,250,US,PA,2022-07-22,Free,Active,
+299,"Humphrey, Maxwell and Smith",Software,10,US,WV,2022-07-24,Team,Active,
+300,Combs-Bauer,Software,250,US,WA,2023-08-24,Pro,Active,
+301,Jones-Mclean,Software,500,US,GA,2021-04-21,Enterprise,Active,
+302,Taylor Group,FinTech,10,US,NE,2025-01-10,Pro,Active,
+303,"Jackson, Boone and Hughes",Software,1000,US,TN,2025-09-10,Free,Active,
+304,Lee PLC,Healthcare,25,US,CT,2021-03-19,Team,Active,
+305,Fisher-Wolf,FinTech,500,US,NY,2022-06-19,Free,Churned,2025-09-25 17:48:01.238085
+306,Johnson-Burns,E-commerce,25,US,SC,2024-01-22,Free,Active,
+307,Michael-George,FinTech,50,US,NE,2023-03-04,Enterprise,Active,
+308,"Fisher, Mccann and Fields",Software,500,US,LA,2024-08-18,Enterprise,Active,
+309,"Rodgers, Maxwell and Wells",Healthcare,10,US,AZ,2023-05-31,Free,Active,
+310,"Phillips, Henderson and Wallace",Healthcare,25,US,VT,2025-05-22,Enterprise,Active,
+311,"Greene, Salinas and Hunter",Software,25,US,MS,2021-08-08,Team,Active,
+312,"Sexton, Edwards and Hernandez",Healthcare,25,US,IN,2022-03-28,Team,Active,
+313,Reeves LLC,FinTech,250,US,NH,2025-06-16,Free,Churned,2025-11-02 17:48:01.238085
+314,Lopez Group,FinTech,10,US,NH,2023-03-04,Team,Active,
+315,Parker-Miller,Software,25,US,KS,2021-11-21,Free,Active,
+316,Freeman-Romero,Healthcare,10,US,MS,2025-11-04,Team,Active,
+317,Baker-Perry,E-commerce,100,US,CT,2025-01-22,Pro,Churned,2025-12-23 17:48:01.238085
+318,"Mcintosh, Graham and Lopez",FinTech,100,US,UT,2022-11-21,Free,Churned,2026-01-29 17:48:01.238085
+319,Dixon-Barnes,FinTech,500,US,MS,2022-04-19,Team,Active,
+320,"Russell, Espinoza and Miller",FinTech,250,US,OH,2024-10-28,Pro,Active,
+321,Barber Inc,FinTech,100,US,TN,2025-01-28,Free,Active,
+322,"Wilcox, Bauer and Sanchez",E-commerce,50,US,MN,2023-03-30,Team,Churned,2025-10-17 17:48:01.238085
+323,Johnson Group,Software,10,US,AR,2022-09-16,Team,Active,
+324,"Kim, Goodman and Thomas",FinTech,25,US,MT,2021-04-20,Pro,Churned,2025-09-07 17:48:01.238085
+325,Charles LLC,Healthcare,50,US,LA,2024-01-15,Enterprise,Churned,2025-10-22 17:48:01.238085
+326,Lester-Obrien,E-commerce,500,US,IL,2021-10-04,Enterprise,Active,
+327,Wong-Tapia,FinTech,50,US,DE,2022-08-15,Pro,Active,
+328,Huynh-Sanford,Healthcare,500,US,NJ,2025-08-10,Pro,Active,
+329,Shaffer LLC,FinTech,1000,US,CO,2024-04-06,Free,Active,
+330,Ortiz LLC,Software,100,US,TX,2025-03-08,Enterprise,Active,
+331,Ford-Jones,E-commerce,10,US,IN,2022-10-26,Free,Active,
+332,Johnson-Dunn,Software,500,US,TN,2022-01-16,Team,Active,
+333,Torres-Turner,E-commerce,25,US,SD,2021-03-19,Pro,Active,
+334,"Hutchinson, Martin and Thomas",FinTech,50,US,RI,2023-06-03,Free,Churned,2025-09-24 17:48:01.238085
+335,Wood LLC,FinTech,1000,US,AK,2025-10-25,Pro,Churned,2025-10-12 17:48:01.238085
+336,Wilcox Inc,E-commerce,1000,US,AR,2025-05-13,Free,Active,
+337,Wolfe PLC,Healthcare,500,US,MI,2022-08-21,Team,Churned,2025-11-20 17:48:01.238085
+338,Reese-Potter,Healthcare,250,US,KS,2025-08-26,Team,Active,
+339,Hoover Ltd,FinTech,500,US,FL,2023-03-15,Enterprise,Active,
+340,"Ferguson, Pratt and Stephens",FinTech,1000,US,OR,2023-05-01,Enterprise,Active,
+341,Howard-Bean,Software,25,US,IN,2024-10-20,Team,Active,
+342,Robles Ltd,FinTech,100,US,CA,2022-11-26,Free,Churned,2025-12-25 17:48:01.238085
+343,"Greene, Wolfe and Smith",E-commerce,10,US,WI,2024-06-16,Pro,Active,
+344,Valenzuela-Ramos,Healthcare,250,US,OK,2021-03-14,Team,Active,
+345,Young-Vargas,Healthcare,25,US,IN,2023-11-21,Team,Active,
+346,"Owen, Lee and Odonnell",Software,500,US,PA,2021-10-17,Free,Active,
+347,"Henderson, Bush and Glenn",Healthcare,25,US,IN,2022-08-31,Team,Active,
+348,Butler LLC,Healthcare,50,US,IA,2023-07-23,Team,Churned,2025-11-04 17:48:01.238085
+349,Smith-Rodriguez,E-commerce,1000,US,MI,2025-09-06,Free,Active,
+350,Hopkins-Pittman,Healthcare,25,US,WY,2025-03-24,Team,Active,
+351,"Orozco, Stephens and Mullins",Software,10,US,GA,2025-12-22,Enterprise,Active,
+352,"Stafford, Romero and Trevino",Software,10,US,RI,2024-08-25,Enterprise,Active,
+353,Gonzalez and Sons,Healthcare,25,US,AL,2026-01-16,Enterprise,Churned,2025-10-18 17:48:01.238085
+354,"Brown, Ramos and Wallace",FinTech,1000,US,LA,2023-07-18,Enterprise,Active,
+355,Vazquez-Simpson,Healthcare,50,US,GA,2024-06-19,Team,Active,
+356,"Zamora, Roberts and Wu",Software,250,US,FL,2022-06-09,Pro,Active,
+357,"Jackson, Anderson and Shepherd",Software,500,US,OH,2025-12-23,Enterprise,Churned,2026-02-01 17:48:01.238085
+358,Elliott Inc,E-commerce,1000,US,KY,2022-01-26,Enterprise,Active,
+359,"Taylor, Daniel and Osborne",Healthcare,250,US,ID,2023-08-04,Team,Active,
+360,"Miles, Kelley and Haley",Healthcare,50,US,DE,2023-05-31,Team,Active,
+361,Singleton Group,E-commerce,100,US,TX,2021-08-25,Free,Active,
+362,Perez LLC,Software,10,US,AK,2024-08-19,Enterprise,Churned,2025-10-09 17:48:01.238085
+363,"Rios, Jenkins and Moreno",E-commerce,100,US,FL,2025-09-26,Free,Churned,2025-11-21 17:48:01.238085
+364,Coleman-Donaldson,FinTech,500,US,AL,2025-04-29,Enterprise,Active,
+365,Wilson-Diaz,Healthcare,50,US,MN,2022-12-10,Pro,Active,
+366,Mason Inc,Software,500,US,KS,2022-12-16,Team,Active,
+367,Carter Group,E-commerce,100,US,PA,2024-08-08,Team,Active,
+368,Perez-Baldwin,Software,50,US,MA,2025-09-01,Free,Active,
+369,Medina-Rogers,FinTech,250,US,AK,2025-02-19,Free,Active,
+370,Wise-Marquez,Healthcare,250,US,ID,2025-01-23,Team,Active,
+371,"Mueller, Rosario and Bishop",E-commerce,100,US,KY,2022-06-10,Team,Active,
+372,Mcdonald-Martinez,Software,100,US,AR,2023-10-27,Team,Churned,2025-12-03 17:48:01.238085
+373,Mcfarland-Duncan,Healthcare,10,US,FL,2021-12-30,Enterprise,Active,
+374,Ramos-Melton,Healthcare,250,US,WV,2025-03-10,Enterprise,Active,
+375,Perez-Berry,Software,10,US,NE,2022-05-27,Pro,Churned,2025-12-31 17:48:01.238085
+376,Mendez Inc,Healthcare,100,US,ND,2024-09-02,Enterprise,Active,
+377,"Ray, Navarro and Thomas",Healthcare,500,US,DE,2024-06-22,Team,Active,
+378,Mckinney Inc,E-commerce,50,US,WV,2024-10-13,Enterprise,Churned,2025-10-28 17:48:01.238085
+379,Guzman Inc,Healthcare,250,US,CA,2023-06-30,Free,Active,
+380,Morrison Group,E-commerce,50,US,NM,2023-02-25,Team,Active,
+381,Jordan Group,Healthcare,10,US,NH,2025-10-06,Enterprise,Active,
+382,Gonzalez-Wells,FinTech,10,US,WY,2025-11-05,Team,Churned,2025-10-16 17:48:01.238085
+383,Walsh and Sons,FinTech,25,US,MS,2025-08-04,Free,Active,
+384,Sampson PLC,E-commerce,500,US,NC,2024-07-16,Free,Active,
+385,Miller and Sons,E-commerce,1000,US,PA,2021-05-05,Enterprise,Churned,2026-01-26 17:48:01.238085
+386,Hanson Inc,FinTech,1000,US,CT,2024-02-24,Team,Active,
+387,"Coffey, Cabrera and Scott",Healthcare,250,US,NH,2022-05-12,Pro,Active,
+388,Alexander Inc,E-commerce,250,US,NC,2025-05-04,Free,Active,
+389,Evans-Martin,Software,10,US,IA,2021-09-13,Pro,Churned,2025-11-19 17:48:01.238085
+390,Kirk-Bailey,Healthcare,1000,US,SC,2026-02-21,Enterprise,Active,
+391,Brock-Hernandez,Healthcare,500,US,AZ,2024-08-28,Free,Active,
+392,Williamson LLC,FinTech,1000,US,WA,2025-01-22,Pro,Churned,2025-10-25 17:48:01.238085
+393,Welch Ltd,E-commerce,50,US,TX,2025-12-18,Free,Active,
+394,Miller-Brown,Healthcare,250,US,ND,2024-01-30,Pro,Active,
+395,Joseph-Smith,E-commerce,10,US,MD,2022-07-16,Team,Churned,2026-01-19 17:48:01.238085
+396,Mccarthy Inc,E-commerce,1000,US,NJ,2024-09-27,Team,Active,
+397,Baldwin Inc,E-commerce,1000,US,TN,2023-05-20,Enterprise,Active,
+398,"Greer, Johnson and Faulkner",FinTech,25,US,AK,2024-06-11,Free,Active,
+399,Small Group,E-commerce,100,US,AR,2022-07-26,Pro,Active,
+400,"Olson, Hess and Robinson",FinTech,250,US,NM,2022-11-08,Enterprise,Active,
+401,Moore-Brown,Software,500,US,MT,2024-07-17,Team,Active,
+402,Cardenas PLC,Healthcare,100,US,NV,2025-10-16,Team,Active,
+403,Turner-Lee,Healthcare,50,US,UT,2025-08-23,Enterprise,Active,
+404,Potter-Jackson,Software,25,US,CT,2025-06-23,Free,Active,
+405,"Moody, Lin and Simpson",FinTech,250,US,NY,2022-04-20,Pro,Active,
+406,Richmond Ltd,Healthcare,100,US,VA,2023-06-06,Team,Active,
+407,Ortiz Ltd,FinTech,500,US,NH,2022-09-21,Enterprise,Churned,2026-01-12 17:48:01.238085
+408,Harrison-Davis,FinTech,1000,US,CA,2023-04-23,Team,Active,
+409,Fisher-Kramer,FinTech,100,US,CO,2022-09-09,Team,Churned,2025-12-11 17:48:01.238085
+410,Olsen Inc,Software,10,US,MA,2025-08-31,Pro,Churned,2025-09-26 17:48:01.238085
+411,Dudley-White,Software,100,US,RI,2023-02-07,Free,Churned,2025-09-22 17:48:01.238085
+412,"Garcia, Franklin and Miller",FinTech,50,US,GA,2024-11-02,Free,Active,
+413,Young-Frank,E-commerce,100,US,CA,2023-06-08,Pro,Active,
+414,Hoover Group,Software,50,US,FL,2022-03-03,Enterprise,Active,
+415,"Combs, Morse and Sanchez",E-commerce,50,US,LA,2022-01-02,Enterprise,Churned,2025-11-13 17:48:01.238085
+416,Russell-Smith,E-commerce,500,US,SC,2025-08-04,Free,Churned,2025-10-31 17:48:01.238085
+417,Yang Group,FinTech,10,US,SD,2022-10-23,Team,Active,
+418,Williams Group,E-commerce,1000,US,PA,2023-12-06,Team,Active,
+419,Ballard Group,E-commerce,25,US,OK,2021-07-24,Enterprise,Active,
+420,Barnes and Sons,E-commerce,50,US,VA,2025-03-08,Pro,Active,
+421,Bolton and Sons,FinTech,100,US,MA,2022-05-19,Team,Active,
+422,"Hayes, Hill and Hall",FinTech,500,US,MO,2021-10-21,Enterprise,Active,
+423,Curtis and Sons,Software,100,US,RI,2023-06-26,Pro,Active,
+424,Watson Group,Software,50,US,ND,2024-10-21,Free,Active,
+425,"Sanchez, Nelson and Carter",E-commerce,500,US,ME,2024-03-12,Pro,Active,
+426,Acevedo-Franklin,FinTech,100,US,NJ,2025-11-23,Free,Active,
+427,Rowland-Best,FinTech,1000,US,NC,2025-04-06,Enterprise,Active,
+428,"Frazier, Phillips and Hendricks",E-commerce,1000,US,RI,2026-03-04,Pro,Active,
+429,"Fletcher, Oliver and Edwards",Software,250,US,NV,2025-12-28,Enterprise,Active,
+430,Irwin Group,FinTech,10,US,CT,2023-12-14,Free,Active,
+431,Smith Group,Software,100,US,VT,2021-04-11,Team,Active,
+432,"Hernandez, Rodriguez and Hernandez",E-commerce,10,US,DE,2021-10-26,Team,Churned,2025-09-10 17:48:01.238085
+433,Brown Ltd,FinTech,50,US,TN,2022-03-07,Free,Active,
+434,Nelson and Sons,E-commerce,50,US,TN,2026-02-26,Team,Active,
+435,"Kennedy, Todd and Obrien",Healthcare,50,US,WY,2022-06-16,Team,Active,
+436,Jones-Rice,E-commerce,10,US,OK,2026-03-03,Pro,Active,
+437,Paul-Garcia,E-commerce,1000,US,WA,2023-02-23,Pro,Active,
+438,"Day, Johnson and Moss",E-commerce,100,US,IN,2023-07-07,Team,Active,
+439,Ray Inc,FinTech,1000,US,NV,2025-04-16,Pro,Churned,2025-12-02 17:48:01.238085
+440,Vega LLC,E-commerce,250,US,NH,2023-08-04,Free,Active,
+441,Estrada-Gonzalez,E-commerce,1000,US,IA,2021-10-13,Pro,Churned,2025-09-08 17:48:01.238085
+442,Williams-Hensley,Healthcare,10,US,NE,2024-11-11,Pro,Active,
+443,Mosley-Morrow,FinTech,500,US,MI,2024-10-04,Pro,Active,
+444,"Guerra, Dudley and Baker",Healthcare,1000,US,NJ,2022-03-20,Enterprise,Active,
+445,Hill-Dougherty,E-commerce,250,US,MT,2022-08-05,Free,Active,
+446,Humphrey-Foster,FinTech,100,US,NE,2025-12-11,Team,Active,
+447,"Moore, Miles and Morris",Healthcare,100,US,WA,2022-10-05,Team,Active,
+448,Martinez-Lopez,E-commerce,10,US,CT,2024-10-09,Enterprise,Active,
+449,"Harris, Crawford and Alexander",Software,25,US,MA,2025-08-06,Pro,Active,
+450,"Davies, Middleton and Black",Healthcare,250,US,NV,2024-06-20,Free,Active,
+451,Rasmussen-Perry,FinTech,50,US,MA,2025-10-24,Free,Churned,2025-12-31 17:48:01.238085
+452,Reilly Inc,Healthcare,250,US,TX,2024-11-23,Team,Churned,2026-02-01 17:48:01.238085
+453,Cruz-Aguirre,Healthcare,1000,US,KY,2024-04-04,Enterprise,Active,
+454,"Martinez, Smith and Greene",Healthcare,100,US,MS,2021-07-26,Enterprise,Active,
+455,Mack PLC,Software,500,US,GA,2021-10-29,Enterprise,Active,
+456,Jenkins PLC,FinTech,100,US,UT,2021-07-13,Enterprise,Churned,2025-09-27 17:48:01.238085
+457,White-Munoz,FinTech,1000,US,NM,2026-02-18,Free,Active,
+458,Mercer PLC,FinTech,10,US,CA,2021-12-03,Pro,Active,
+459,"Lewis, Stuart and Gill",E-commerce,25,US,CO,2023-03-21,Team,Active,
+460,"Gomez, Daniels and Pham",FinTech,50,US,CO,2021-09-10,Free,Active,
+461,"Roberts, Bass and White",FinTech,250,US,CO,2022-12-27,Enterprise,Active,
+462,Cannon Group,Software,25,US,NV,2021-10-11,Enterprise,Churned,2025-11-06 17:48:01.238085
+463,Meadows Group,E-commerce,50,US,CT,2021-11-22,Team,Active,
+464,James-Odonnell,E-commerce,100,US,WV,2022-03-28,Pro,Active,
+465,Reyes Ltd,Healthcare,500,US,WV,2021-10-22,Pro,Active,
+466,Clarke-Hall,E-commerce,100,US,MS,2023-10-01,Pro,Churned,2025-10-28 17:48:01.238085
+467,Douglas LLC,E-commerce,10,US,FL,2023-10-12,Enterprise,Active,
+468,"Davis, Garcia and Nelson",Software,10,US,OK,2023-01-12,Free,Active,
+469,"Benitez, Vang and Palmer",FinTech,500,US,AR,2024-04-26,Free,Active,
+470,Farley-Williams,E-commerce,250,US,PA,2025-11-29,Pro,Active,
+471,"Herring, Flores and Stein",E-commerce,1000,US,OK,2024-01-08,Team,Active,
+472,Deleon LLC,Software,25,US,OK,2023-01-07,Pro,Active,
+473,Soto-Oliver,E-commerce,500,US,MI,2023-07-13,Pro,Churned,2025-10-28 17:48:01.238085
+474,Thompson Inc,E-commerce,25,US,TX,2022-03-13,Team,Active,
+475,Rivera-Andrews,Software,50,US,DE,2022-10-29,Pro,Active,
+476,Tate Ltd,Healthcare,250,US,NE,2024-02-15,Team,Churned,2025-10-24 17:48:01.238085
+477,Freeman PLC,Healthcare,10,US,MN,2021-12-23,Team,Active,
+478,Lowe-Montgomery,E-commerce,250,US,TX,2025-02-06,Free,Churned,2025-09-18 17:48:01.238085
+479,Guzman-Alvarado,E-commerce,100,US,WI,2023-05-12,Team,Active,
+480,Collins Ltd,FinTech,10,US,NV,2021-08-31,Pro,Active,
+481,Miller-Hughes,E-commerce,25,US,WA,2023-04-29,Team,Active,
+482,"Combs, Williams and Oconnor",FinTech,1000,US,AR,2025-11-30,Pro,Active,
+483,"Clark, Newton and James",Healthcare,10,US,ME,2023-10-22,Team,Active,
+484,Campbell-Alexander,E-commerce,100,US,RI,2025-10-18,Free,Churned,2025-12-20 17:48:01.238085
+485,Flores-Mills,E-commerce,10,US,MD,2021-04-09,Pro,Active,
+486,Meza Ltd,Software,500,US,MN,2025-02-12,Pro,Churned,2025-12-29 17:48:01.238085
+487,Davis-Gonzalez,E-commerce,1000,US,CT,2021-04-04,Pro,Active,
+488,Mays-Fernandez,Healthcare,25,US,OR,2026-01-11,Team,Active,
+489,Barker Ltd,E-commerce,100,US,NC,2022-11-04,Free,Active,
+490,Griffith Ltd,FinTech,500,US,IN,2022-06-08,Free,Active,
+491,Burke LLC,E-commerce,50,US,GA,2024-07-08,Free,Churned,2025-12-31 17:48:01.238085
+492,"Terry, Simpson and Smith",FinTech,250,US,TX,2023-04-14,Free,Churned,2025-10-20 17:48:01.238085
+493,White-Snyder,Software,500,US,NM,2025-10-29,Team,Active,
+494,"Hughes, Campbell and Gomez",E-commerce,50,US,IA,2024-10-13,Pro,Active,
+495,"Holland, Williams and Patton",Software,100,US,CT,2023-07-09,Enterprise,Churned,2025-12-30 17:48:01.238085
+496,Wood-Russell,Software,1000,US,MN,2021-11-19,Free,Churned,2025-12-04 17:48:01.238085
+497,Roach-Macias,E-commerce,100,US,OK,2025-12-28,Enterprise,Active,
+498,Holland Ltd,FinTech,100,US,MS,2025-09-30,Team,Churned,2025-10-04 17:48:01.238085
+499,"Hicks, Cook and Simon",E-commerce,25,US,DE,2024-08-19,Team,Active,
+500,Zimmerman-Mccarthy,FinTech,100,US,WI,2021-11-01,Enterprise,Active,
